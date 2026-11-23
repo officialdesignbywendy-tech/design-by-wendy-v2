@@ -1,0 +1,4 @@
+- [x] Repair and complete the combined Why Work With Me and seven-step creative process section.
+- [x] Restore Client Feedback as its own polished section without invented testimonials.
+- [x] Complete the toolkit, hero actions, and closing contact experience while preserving existing links and form behavior.
+- [x] Verify the full portfolio on mobile and desktop, including project dialogs, navigation, motion preferences, and preview build.
